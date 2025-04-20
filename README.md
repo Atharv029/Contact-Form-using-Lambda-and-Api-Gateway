@@ -41,4 +41,11 @@ Handling CORS issues is a common challenge when making requests to APIs hosted o
 
 ---
 
-Let me know if you need further tweaks!
+Want to see the project in action?  
+📽️ **[Watch the full demo on LinkedIn](https://www.linkedin.com/posts/atharv-chawan-ab01152a7_building-serverless-solutions-with-aws-lambda-activity-7319684248548876288-N30y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEngtOQBeA6BfWpcxn-tiF0263Jpx1sqK6I)**  
+
+I walk through how I used:
+- AWS Lambda + API Gateway
+- CORS handling
+- Database integration
+- Frontend interaction with serverless backend
