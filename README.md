@@ -1,32 +1,3 @@
-Here's an updated version that includes the mention of the database storage:
-
-### LinkedIn Post Description:
-
----
-
-🚀 **Building Serverless Solutions with AWS Lambda & API Gateway** 🌐
-
-In my latest project, I implemented a **serverless architecture** using **AWS Lambda** to handle requests, bypass CORS issues, and **store data in a database**, creating a seamless integration between frontend and backend.
-
-**Key Highlights:**
-- **AWS Lambda** for running backend logic.
-- **API Gateway** for exposing the Lambda function as a REST API.
-- **Database Integration**: Stored and retrieved data from a database, ensuring persistence across requests.
-- Configured **CORS** (Cross-Origin Resource Sharing) to handle frontend requests without security concerns.
-- Showcased my ability to work with **serverless technologies**, **cloud platforms**, and **database integration**.
-
-This solution not only improves scalability but also ensures data persistence while reducing costs by eliminating the need for a dedicated server. It’s a perfect example of how modern serverless solutions can solve common development challenges like CORS and data storage.
-
-Check out the full implementation on my GitHub below and let me know what you think! 🚀
-
-#AWS #Serverless #Lambda #APIGateway #DatabaseIntegration #CORS #WebDevelopment #CloudComputing #TechSkills #FrontendDevelopment #BackendDevelopment
-
----
-
-### GitHub README:
-
----
-
 # Serverless CORS Handling with AWS Lambda and Database Integration
 
 ## Overview
